@@ -1,1 +1,1 @@
-필요한 환경 구축은 requirements.txt 에 있습니다.
+사용한 환경은 requirements.txt 에 있습니다.
